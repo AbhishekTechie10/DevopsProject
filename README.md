@@ -3,7 +3,8 @@
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F1311580001535348558%2Fnetflix-home-page-desktop-tv&psig=AOvVaw3A63MTCC0Ai9xOWyAbGL4j&ust=1731259470510000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjVu5_iz4kDFQAAAAAdAAAAABAE" alt="Logo" width="100" height="32">
+    <img src="![Uploading image.png…]()
+" alt="Logo" width="100" height="32">
   </a>
 </div>
 
