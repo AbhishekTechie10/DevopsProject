@@ -3,7 +3,7 @@
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="https://images.ctfassets.net/y2ske730sjqp/6bhPChRFLRxc17sR8jgKbe/6fa1c6e6f37acdc97ff635cf16ba6fb3/Logos-Readability-Netflix-logo.png
+    <img src="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940
 " alt="Logo" width="100" height="32">
   </a>
 </div>
