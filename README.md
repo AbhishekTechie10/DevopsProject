@@ -11,7 +11,7 @@
 <br />
 
 <div align="center">
-  <img src="./public/assets/home.png" alt="Logo" width="100%" height="100%">
+  <img src="https://duet-cdn.vox-cdn.com/thumbor/0x0:1920x1080/2400x1350/filters:focal(960x540:961x541):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25479488/netflix_homepage_2.jpg" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
 
