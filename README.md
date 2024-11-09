@@ -3,7 +3,7 @@
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="![Uploading image.png…]()
+    <img src="./DevopsProject/public/assets/DevSecOps.png
 " alt="Logo" width="100" height="32">
   </a>
 </div>
